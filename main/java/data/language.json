@@ -1,0 +1,141 @@
+[
+    {
+        "languageEnum": "SPANISH",
+        "languageName": "Spanish",
+        "unitList": [
+            {
+                "unitID": "9b6e7eab-f214-4a2a-8437-1bef6b77b785",
+                "unitName": "Unit 1",
+                "unitNumber": "0",
+                "lessonList": [
+                    {
+                        "lessonID": "d9803a1b-97db-4518-afd0-20562be10c0e",
+                        "lessonName": "Lesson 1",
+                        "lessonNumber": "1",
+                        "wordList": [
+                            {
+                                "wordID": "e6f3849f-a074-47e0-b6ba-571e59ab7169",
+                                "wordText": "verde",
+                                "wordTranslation": "green",
+                                "wordPartOfSpeech": "noun",
+                                "wordExampleSentence": "_____, es mi color favorito"
+                            },
+                            {
+                                "wordID": "3fbd0626-a89a-4310-bf20-1bec8736958a",
+                                "wordText": "hola",
+                                "wordTranslation": "hello",
+                                "wordPartOfSpeech": "interjection",
+                                "wordExampleSentence": "_____, mi nombre es Lea"
+                            },
+                            {
+                                "wordID": "3af4a246-9615-46b3-8894-c9e67031c295",
+                                "wordText": "rapido",
+                                "wordTranslation": "fast",
+                                "wordPartOfSpeech": "adjective",
+                                "wordExampleSentence": "el nino es muy _____"
+                            },
+                            {
+                                "wordID": "5aca7c8f-9d7e-4c6e-8400-812aa2aa680b",
+                                "wordText": "caminar",
+                                "wordTranslation": "to walk",
+                                "wordPartOfSpeech": "verb",
+                                "wordExampleSentence": "Me gusta ______ con amigos"
+                            },
+                            {
+                                "wordID": "79ea8d70-fd5c-4693-b28c-872578b65983",
+                                "wordText": "saltar",
+                                "wordTranslation": "to jump",
+                                "wordPartOfSpeech": "verb",
+                                "wordExampleSentence": "al nino le gusta _____"
+                            },
+                            {
+                                "wordID": "4fc4a9b1-e01f-4c03-b0b1-d3b302c2d119",
+                                "wordText": "adios",
+                                "wordTranslation": "goodbye",
+                                "wordPartOfSpeech": "interjection",
+                                "wordExampleSentence": "____, hasta luego"
+                            },
+                            {
+                                "wordID": "53655cb7-27ba-4688-8bf1-1b8bdc52e579",
+                                "wordText": "casa",
+                                "wordTranslation": "house",
+                                "wordPartOfSpeech": "noun",
+                                "wordExampleSentence": "yo vivo en una _____"
+                            },
+                            {
+                                "wordID": "eed2bf85-9b16-47db-a686-b801a7e6baa0",
+                                "wordText": "bonito",
+                                "wordTranslation": "pretty",
+                                "wordPartOfSpeech": "adjective",
+                                "wordExampleSentence": "Yo tengo un gato ______"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "unitID": "95680ae4-5801-49ce-b16e-5d9a6ab779f1",
+                "unitName": "Unit 2",
+                "unitNumber": "1",
+                "lessonList": [
+                    {
+                        "lessonID": "e0bf639c-a99d-4838-a032-02cc47decbff",
+                        "lessonName": "Lesson 1",
+                        "lessonNumber": "1",
+                        "wordList": [
+                            {
+                                "wordID": "81185f0f-5270-4baa-9540-9f22ca320211",
+                                "wordText": "0",
+                                "wordTranslation": "0",
+                                "wordPartOfSpeech": "0",
+                                "wordExampleSentence": "_____, mi nombre es 0"
+                            },
+                            {
+                                "wordID": "3e552a92-afc6-48ec-90c7-e44504236eeb",
+                                "wordText": "1",
+                                "wordTranslation": "1",
+                                "wordPartOfSpeech": "1",
+                                "wordExampleSentence": "_____, mi nombre es 1"
+                            },
+                            {
+                                "wordID": "616f8fb2-5ad9-4f97-b73d-52c07d73ddb2",
+                                "wordText": "2",
+                                "wordTranslation": "2",
+                                "wordPartOfSpeech": "2",
+                                "wordExampleSentence": "_____, mi nombre es 2"
+                            },
+                            {
+                                "wordID": "ff33509a-dcd5-4efc-9351-58452263e8e5",
+                                "wordText": "3",
+                                "wordTranslation": "3",
+                                "wordPartOfSpeech": "3",
+                                "wordExampleSentence": "_____, mi nombre es 3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "unitID": "958868db-e7df-4938-a389-3da43a0bea07",
+                "unitName": "Unit 2",
+                "unitNumber": "2",
+                "lessonList": [
+                    {
+                        "lessonID": "d9dbcda3-7409-4765-8513-c8e446b659a3",
+                        "lessonName": "Lesson 1",
+                        "lessonNumber": "1",
+                        "wordList": [
+                            {
+                                "wordID": "3fbd0626-a89a-4310-bf20-1bec8736958a",
+                                "wordText": "hola",
+                                "wordTranslation": "hello",
+                                "wordPartOfSpeech": "interjection",
+                                "wordExampleSentence": "_____, mi nombre es Lea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

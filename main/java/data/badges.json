@@ -1,0 +1,13 @@
+[{
+    "badgeID": "fbc039af-eaf3-423e-8680-cb991e5049c4",
+    "name": "Badge 1",
+    "description": "Badge 1 was earned for completing the first unit"
+},{
+    "badgeID": "53705161-e923-4bd4-b958-9dd43aabda6a",
+    "name": "Badge 2",
+    "description": "Badge 2 was earned for completing the second unit"
+},{
+    "badgeID": "53705161-e923-4bd4-b958-9dd43aabda6a",
+    "name": "Badge 3",
+    "description": "Badge 3 was earned for completing the third unit"
+}]
